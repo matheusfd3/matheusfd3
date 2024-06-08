@@ -7,13 +7,11 @@
 
 - 🔭 I’m currently working on **My startup**
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **Javascript, ReactJS and Next.js**
 
 - 📫 How to reach me **matheusfdantas03@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
